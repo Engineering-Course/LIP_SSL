@@ -1,0 +1,3 @@
+[submodule "code"]
+	path = code
+	url = git@github.com:Engineering-Course/caffe_ssl.git
