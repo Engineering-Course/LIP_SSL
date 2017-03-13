@@ -1,4 +1,5 @@
 ## Self-supervised Structure-sensitive Learning (SSL)
+Ke Gong, Xiaodan Liang, Xiaohui Shen, Liang Lin, "Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing", CVPR 2016.
 
 ### Introduction
 
@@ -10,18 +11,11 @@ This distribution provides a publicly available implementation for the key model
 
 Please consult and consider citing the following papers:
 
-    @article{CP2016Deeplab,
-      title={DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs},
-      author={Liang-Chieh Chen and George Papandreou and Iasonas Kokkinos and Kevin Murphy and Alan L Yuille},
-      journal={arXiv:1606.00915},
-      year={2016}
-    }
-
-    @inproceedings{CY2016Attention,
-      title={Attention to Scale: Scale-aware Semantic Image Segmentation},
-      author={Liang-Chieh Chen and Yi Yang and Jiang Wang and Wei Xu and Alan L Yuille},
-      booktitle={CVPR},
-      year={2016}
+    @inproceedings{Co-CNN,
+      title={Human Parsing with Contextualized Convolutional Neural Network},
+      author={Xiaodan Liang and Chunyan Xu and Xiaohui Shen and Jianchao Yang and Si Liu and Jinhui Tang and Liang Lin and Shuicheng Yan},
+      booktitle={ICCV},
+      year={2015}
     }
 
 ### Look into People (LIP) Dataset
