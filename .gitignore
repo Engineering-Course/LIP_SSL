@@ -1,0 +1,4 @@
+*.caffemodel
+*.solverstate
+*.o
+*.pyc
