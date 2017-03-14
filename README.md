@@ -7,7 +7,7 @@ SSL is a state-of-art deep learning methord for human parsing built on top of [C
 This novel self-supervised structure-sensitive learning approach can impose human pose structures into parsing results without resorting to extra supervision (i.e., no
 need for specifically labeling human joints in model training). The self-supervised learning framework can be injected into any advanced neural networks to help incorporate rich high-level knowledge regarding human joints from a global perspective and improve the parsing results.
 
-This distribution provides a publicly available implementation for the key model ingredients reported in our latest [paper](http://arxiv.org/abs/1606.00915) which is accepted by CVPR2017.
+This distribution provides a publicly available implementation for the key model ingredients reported in our latest [paper]() which is accepted by CVPR2017.
 
 Please consult and consider citing the following papers:
 
