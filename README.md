@@ -36,4 +36,5 @@ We have released our trained models with best performance [here](https://drive.g
 4. Download the pre-trained model and put it into ssl/human/model/attention/. You can also refer [DeepLab](https://bitbucket.org/aquariusjay/deeplab-public-ver2) for more models. 
 5. Set up your init.caffemodel before training and test.caffemodel before testing. You can simply use a soft link.
 6. The prototxt files for network config are saved in ssl/human/config
-7. The computed features are saved in ssl/human/features. You can run the provided MATLAB script, show.m to generate visualizable results. Then you can run the Python script, test_human.py to evaluate the performance.
+7. In run_human.sh, you can set the value of RUN_TRAIN adn RUN_TEST to train or test the model.
+8. After you run TEST, the computed features will be saved in ssl/human/features. You can run the provided MATLAB script, show.m to generate visualizable results. Then you can run the Python script, test_human.py to evaluate the performance.
