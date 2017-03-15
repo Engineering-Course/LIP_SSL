@@ -1,10 +1,3 @@
-# VGG 16-layer network convolutional finetuning
-# Network modified to have smaller receptive field (128 pixels)
-# and smaller stride (8 pixels) when run in convolutional mode.
-#
-# In this model we also change max pooling size in the first 4 layers
-# from 2 to 3 while retaining stride = 2
-# which makes it easier to exactly align responses at different layers.
 #
 name: "${NET_ID}"
 
