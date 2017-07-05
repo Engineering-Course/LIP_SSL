@@ -26,7 +26,7 @@ Please consult and consider citing the following papers:
 
 ### Look into People (LIP) Dataset
 
-The SSL is trained and evaluated on our [LIP dataset](http://hcp.sysu.edu.cn/lip/) for human parsing. [Alternate Address](222.200.181.224/lip) Please check it for more model details.
+The SSL is trained and evaluated on our [LIP dataset](http://hcp.sysu.edu.cn/lip/) for human parsing ([Alternate Address](222.200.181.224/lip)).  Please check it for more model details.
 
 
 ### Pre-trained models
