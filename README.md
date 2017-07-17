@@ -7,15 +7,16 @@ SSL is a state-of-art deep learning methord for human parsing built on top of [C
 This novel self-supervised structure-sensitive learning approach can impose human pose structures into parsing results without resorting to extra supervision (i.e., no
 need for specifically labeling human joints in model training). The self-supervised learning framework can be injected into any advanced neural networks to help incorporate rich high-level knowledge regarding human joints from a global perspective and improve the parsing results.
 
-This distribution provides a publicly available implementation for the key model ingredients reported in our latest [paper](http://ss.sysu.edu.cn/~ll/files/CVPR17_LIP.pdf) which is accepted by CVPR2017.
+This distribution provides a publicly available implementation for the key model ingredients reported in our latest [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf) which is accepted by CVPR2017.
 
 Please consult and consider citing the following papers:
 
-    @article{LIP,
-        title={Look into Person: Self-supervised Structure-sensitive Learning and A New Benchmark for Human Parsing},
-        author={Ke Gong, Xiaodan Liang, Xiaohui Shen, Liang Lin},
-        journal={arXiv preprint arXiv:1703.05446},
-        year={2017}
+    @InProceedings{Gong_2017_CVPR,
+      author = {Gong, Ke and Liang, Xiaodan and Zhang, Dongyu and Shen, Xiaohui and Lin, Liang},
+      title = {Look Into Person: Self-Supervised Structure-Sensitive Learning and a New Benchmark for Human Parsing},
+      booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+      month = {July},
+      year = {2017}
     }
     @inproceedings{Co-CNN,
       title={Human Parsing with Contextualized Convolutional Neural Network},
