@@ -27,12 +27,12 @@ Please consult and consider citing the following papers:
 
 ### Look into People (LIP) Dataset
 
-The SSL is trained and evaluated on our [LIP dataset](http://hcp.sysu.edu.cn/lip/) for human parsing, or [Alternate Address](http://222.200.181.224/lip).  Please check it for more model details. The dataset is also available [here](http://pan.baidu.com/s/1nvqmZBN)
+The SSL is trained and evaluated on our [LIP dataset](http://hcp.sysu.edu.cn/lip/) for human parsing, or [Alternate Address](http://222.200.181.224/lip).  Please check it for more model details. The dataset is also available [here](https://drive.google.com/drive/folders/0BzvH3bSnp3E9ZW9paE9kdkJtM3M?usp=sharing).
 
 
 ### Pre-trained models
 
-We have released our trained models with best performance [here](https://drive.google.com/drive/folders/0BzvH3bSnp3E9ZW9paE9kdkJtM3M?usp=sharing).
+We have released our trained models with best performance [here](https://drive.google.com/open?id=0BzvH3bSnp3E9eHMyVS1RbUVDems).
 
 
 ### Train and test
