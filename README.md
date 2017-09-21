@@ -32,7 +32,7 @@ The SSL is trained and evaluated on our [LIP dataset](http://hcp.sysu.edu.cn/lip
 
 ### Pre-trained models
 
-We have released our trained models with best performance [here](https://drive.google.com/open?id=0BzvH3bSnp3E9eHMyVS1RbUVDems).
+We have released our trained models with best performance [here](https://drive.google.com/drive/folders/0BzvH3bSnp3E9ZW9paE9kdkJtM3M?usp=sharing).
 
 
 ### Train and test
