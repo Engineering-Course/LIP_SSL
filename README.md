@@ -38,7 +38,7 @@ We have released our trained models with best performance at [google drive](http
 ### Train and test
 
 1. Download LIP dataset or prepare your own data.
-2. Put the images(*,jpg) and segmentations(*.png) into ssl/human/data/images and ssl/human/data/labels
+2. Put the images(*.jpg) and segmentations(*.png) into ssl/human/data/images and ssl/human/data/labels
 3. Put the train, val, test lists into ssl/human/list. Each type contains a list for path and a list for id (e.g., train.txt and train_id.txt) 
 4. Download the pre-trained model and put it into ssl/human/model/attention/. You can also refer [DeepLab](https://bitbucket.org/aquariusjay/deeplab-public-ver2) for more models. 
 5. Set up your init.caffemodel before training and test.caffemodel before testing. You can simply use a soft link.
