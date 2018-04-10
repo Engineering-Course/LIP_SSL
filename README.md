@@ -9,7 +9,7 @@ need for specifically labeling human joints in model training). The self-supervi
 
 This distribution provides a publicly available implementation for the key model ingredients reported in our latest [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf) which is accepted by CVPR2017.
 
-We introduce a novel joint human parsing and pose estimation network (** JPPNet** ), which is accepted by T-PAMI 2018.   ([Paper](https://arxiv.org/pdf/1804.01984.pdf) and [Code](https://github.com/Engineering-Course/LIP_JPPNet))
+We introduce a novel Joint Human Parsing and Pose Estimation Network (**JPPNet**), which is accepted by T-PAMI 2018.   ([Paper](https://arxiv.org/pdf/1804.01984.pdf) and [Code](https://github.com/Engineering-Course/LIP_JPPNet))
 
 Please consult and consider citing the following papers:
 
