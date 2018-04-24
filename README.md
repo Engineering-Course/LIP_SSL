@@ -9,6 +9,8 @@ need for specifically labeling human joints in model training). The self-supervi
 
 This distribution provides a publicly available implementation for the key model ingredients reported in our latest [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_Look_Into_Person_CVPR_2017_paper.pdf) which is accepted by CVPR2017.
 
+We newly introduce a novel Joint Human Parsing and Pose Estimation Network (**JPPNet**), which is accepted by T-PAMI 2018.   ([Paper](https://arxiv.org/pdf/1804.01984.pdf) and [Code](https://github.com/Engineering-Course/LIP_JPPNet))
+
 Please consult and consider citing the following papers:
 
     @InProceedings{Gong_2017_CVPR,
@@ -18,11 +20,12 @@ Please consult and consider citing the following papers:
       month = {July},
       year = {2017}
     }
-    @inproceedings{Co-CNN,
-      title={Human Parsing with Contextualized Convolutional Neural Network},
-      author={Xiaodan Liang and Chunyan Xu and Xiaohui Shen and Jianchao Yang and Si Liu and Jinhui Tang and Liang Lin and Shuicheng Yan},
-      booktitle={ICCV},
-      year={2015}
+    @article{liang2018look,
+      title={Look into Person: Joint Body Parsing \& Pose Estimation Network and a New Benchmark},
+      author={Liang, Xiaodan and Gong, Ke and Shen, Xiaohui and Lin, Liang},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+      year={2018},
+      publisher={IEEE}
     }
 
 ### Look into People (LIP) Dataset
