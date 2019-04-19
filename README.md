@@ -52,6 +52,6 @@ We have released our trained models with best performance at [google drive](http
 
 
 ## Related work
-+ Joint Body Parsing & Pose Estimation Network [JPPNet](https://github.com/Engineering-Course/LIP_JPPNet)
-+ Instance-level Human Parsing via Part Grouping Network [PGN](https://github.com/Engineering-Course/CIHP_PGN)
-+ Graphonomy: Universal Human Parsing via Graph Transfer Learning [Graphonomy](https://github.com/Gaoyiminggithub/Graphonomy)
++ Joint Body Parsing & Pose Estimation Network [JPPNet](https://github.com/Engineering-Course/LIP_JPPNet)， T-PAMI2018
++ Instance-level Human Parsing via Part Grouping Network [PGN](https://github.com/Engineering-Course/CIHP_PGN), ECCV2018
++ Graphonomy: Universal Human Parsing via Graph Transfer Learning [Graphonomy](https://github.com/Gaoyiminggithub/Graphonomy), CVPR2019
