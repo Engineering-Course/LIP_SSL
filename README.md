@@ -3,7 +3,7 @@ Ke Gong, Xiaodan Liang, Xiaohui Shen, Liang Lin, "Look into Person: Self-supervi
 
 ### Introduction
 
-SSL is a state-of-art deep learning methord for human parsing built on top of [Caffe](http://caffe.berkeleyvision.org).
+SSL is a state-of-the-art deep learning methord for human parsing built on top of [Caffe](http://caffe.berkeleyvision.org).
 This novel self-supervised structure-sensitive learning approach can impose human pose structures into parsing results without resorting to extra supervision (i.e., no
 need for specifically labeling human joints in model training). The self-supervised learning framework can be injected into any advanced neural networks to help incorporate rich high-level knowledge regarding human joints from a global perspective and improve the parsing results.
 
@@ -48,3 +48,10 @@ We have released our trained models with best performance at [google drive](http
 6. The prototxt files for network config are saved in ssl/human/config
 7. In run_human.sh, you can set the value of RUN_TRAIN adn RUN_TEST to train or test the model.
 8. After you run TEST, the computed features will be saved in ssl/human/features. You can run the provided MATLAB script, show.m to generate visualizable results. Then you can run the Python script, test_human.py to evaluate the performance.
+
+
+
+## Related work
+Joint Body Parsing & Pose Estimation Network [JPPNet](https://github.com/Engineering-Course/LIP_JPPNet)
+Instance-level Human Parsing via Part Grouping Network [PGN](https://github.com/Engineering-Course/CIHP_PGN)
+Graphonomy: Universal Human Parsing via Graph Transfer Learning [Graphonomy](https://github.com/Gaoyiminggithub/Graphonomy)
